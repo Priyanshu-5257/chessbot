@@ -1,4 +1,4 @@
-## Chess DQN Training
+## Training a Chess SLM: DQN with Custom T5 Encoder
 
 This repository contains code for training a Deep Q-Network (DQN) to play chess using a custom T5 encoder model. Below are the details of the reward structure and tokenization procedure used in the training process.
 
